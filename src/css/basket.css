@@ -1,0 +1,52 @@
+.receipt-container {
+    background-color: white;
+    max-width: 1108px;
+    border-radius: 10px;
+}
+
+.receipt {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+li span {
+    text-overflow: ellipsis;
+    font-size: 18px;
+    color: #333;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.span-1 {
+    width: 50%;
+}
+
+.span-2 {
+    width: 10%;
+}
+
+.span-3 {
+    width: 40%;
+}
+
+li {
+    border-bottom: 1px solid rgba(90, 78, 78, 0.144);
+}
+
+ul {
+    border-bottom: 2px solid black;
+}
+
+.total {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 19px;
+}
+
+.total-money {
+    color: #24c486;
+    text-align: right;
+    font-weight: 700;
+    font-size: 18px;
+}

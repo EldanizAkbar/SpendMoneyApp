@@ -1,0 +1,53 @@
+.elonrow {
+    background-color: white;
+    max-width: 1108px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+.elonphoto {
+    width: 100%;
+}
+
+.elonphoto img {
+    width: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.spend {
+    text-align: center;
+    font-size: 30px;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elo {
+    background: linear-gradient(180deg, #2ecc71, #1abc9c);
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    max-width: 1108px;
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.pos {
+    position: inherit;
+    overflow: auto;
+    display: unset;
+}
+
+.host{
+    color: #24c486;
+}
