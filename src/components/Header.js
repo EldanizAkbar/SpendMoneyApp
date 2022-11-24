@@ -8,7 +8,7 @@ function Header({ total, money }) {
         <div className="row text-center elonrow w-100 mx-auto">
           <div className="col-8 col-md-6 col-lg-5 mx-auto elon p-3">
             <div className="elonphoto mx-auto">
-              <img src="http://ictmedia.com.tr/Media/News/9779.jpg" alt="picture" />
+              <img src="https://i.imgur.com/Tc9d8Ns.jpg" alt="picture" />
               <h1 className="spend mt-4">Spend Elon Mask's Money</h1>
             </div>
           </div>
